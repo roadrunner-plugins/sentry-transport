@@ -1,0 +1,10 @@
+name: sentry-collector
+description: 'Sentry collector plugin allowing delegation of Sentry events delivery to the Sentry server through the RoadRunner server.'
+category: monitoring
+dependencies:
+  - logger
+owner: butschster
+author:
+  name: Pavel Buchnev
+  email: butschster@gmail.com
+license: MIT
