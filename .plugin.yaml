@@ -3,6 +3,8 @@ description: 'Sentry collector plugin allowing delegation of Sentry events deliv
 category: monitoring
 dependencies:
   - logger
+  - rpc
+  - metrics
 owner: butschster
 author:
   name: Pavel Buchnev
